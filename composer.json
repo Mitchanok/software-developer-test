@@ -1,0 +1,14 @@
+{
+    "name": "codebros/software-developer-test",
+    "authors": [
+        {
+            "name": "Norman Reinhard",
+            "email": "info@codebros.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
