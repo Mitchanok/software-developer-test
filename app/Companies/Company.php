@@ -9,3 +9,6 @@ abstract class Company
         return "{$this->name()} heeft {$this->employees()} medewerkers.";
     }
 }
+
+
+?>

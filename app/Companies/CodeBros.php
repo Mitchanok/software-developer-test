@@ -1,4 +1,5 @@
 <?php
+session_start();
 
 namespace App\Companies;
 
@@ -16,3 +17,5 @@ class CodeBros extends Company implements CompanyInterface
         return '2';
     }
 }
+
+?>
